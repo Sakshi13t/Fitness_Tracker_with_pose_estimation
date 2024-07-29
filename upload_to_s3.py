@@ -1,10 +1,10 @@
 import boto3
 import os
 
-aws_access_key_id = 'AKIAYAV34GOXJ2BZLK66'
-aws_secret_access_key = '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'
-region_name = 'ap-south-1'
-bucket_name = 'pose-estimation-internship'
+aws_access_key_id = 'key-id'
+aws_secret_access_key = 'secret-key'
+region_name = 'region'
+bucket_name = 'bucket-name'
 
 # Establishing a connection to AWS S3
 s3 = boto3.resource(
