@@ -1,4 +1,5 @@
 # Fitness Tracker with Pose Estimation 🏋️‍♂️
+[![Watch the video](https://github.com/Sakshi13t/Fitness_Tracker_with_pose_estimation/blob/main/output%20videos/output_video%20(1).mp4)
 
 ## Overview
 
